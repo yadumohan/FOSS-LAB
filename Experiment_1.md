@@ -49,4 +49,4 @@
 
 
   ### 1.6 Result
-#####  Several basic linux commands and the direcotry structure of linux were studied
+#####  Several basic linux commands and the directory structure of linux were studied
